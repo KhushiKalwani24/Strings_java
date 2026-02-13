@@ -1,6 +1,3 @@
-Here’s a clean, professional README for your Strings_java repository 👇
-You can directly copy-paste this into your README.md.
-
 ☕ Strings in Java – Practice Programs
 
 📌 Overview
